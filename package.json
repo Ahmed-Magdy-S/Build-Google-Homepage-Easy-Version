@@ -1,0 +1,14 @@
+{
+  "name": "google",
+  "version": "1.0.0",
+  "description": "Build Google Homepage - Easy Version",
+  "main": "index.js",
+  "scripts": {
+    "sass-compile": "node-sass sass/main-sass.scss css/main-style.css -w"
+  },
+  "author": "Ahmed Magdy Seleem",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
